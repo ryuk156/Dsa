@@ -1,4 +1,4 @@
-// merge overlap array [stack]
+// count inversion array [stack]
 
 
 #include <iostream>
